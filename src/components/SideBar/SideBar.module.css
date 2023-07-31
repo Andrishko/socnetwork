@@ -1,0 +1,32 @@
+.profile {
+  display: flex;
+  gap: 15px;
+  padding-right: 105px;
+  background-color: #fff;
+  height: 80px;
+  padding: 18px 105px 18px 30px;
+}
+
+.text {
+  color: #181818;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.you {
+  color: rgba(24, 24, 24, 0.20);
+  margin-left: 10px;
+  font-weight: 300;
+}
+
+.views {
+  color: #747474;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.views span {
+  color: #02B033;
+  font-weight: 500;
+}
